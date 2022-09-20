@@ -1,0 +1,6 @@
+a=int(input("Введіть число a(1-9)"))
+b=int(input("ВВедіть число b(0-9)"))
+c=int(input("ВВедіть число c(0-9)"))
+print(a)
+print(b)
+print(c)
